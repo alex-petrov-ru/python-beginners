@@ -1,0 +1,1 @@
+A = [[0]*M for i in range(N)]
